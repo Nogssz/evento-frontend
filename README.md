@@ -146,8 +146,3 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
    ```
 5. Abra um Pull Request.
 
----
-
-## Contato
-
-Para mais informações, entre em contato com o desenvolvedor pelo e-mail: [seu-email@dominio.com](mailto:seu-email@dominio.com).
